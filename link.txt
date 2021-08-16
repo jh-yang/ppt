@@ -1,0 +1,26 @@
+Guardians of Peace
+Zinc
+Hidden Cobra
+Whois Team
+
+하위 조직
+1. Blunoroff
+ APT38 (by Mandiant ) and Stardust Chollima (by Crowdstrike ).
+
+안다리엘
+Silent Chollima
+
+
+
+
+https://attack.mitre.org/groups/G0032/
+
+https://usa.kaspersky.com/about/press-releases/2019_dtrack-previously-unknown-spy-tool-hits-financial-institutions-and-research-centers
+
+https://us-cert.cisa.gov/ncas/alerts/TA17-164A
+
+https://blogs.microsoft.com/on-the-issues/2017/12/19/microsoft-facebook-disrupt-zinc-malware-attack-protect-customers-internet-ongoing-cyberthreats/
+
+https://www.secureworks.com/about/press/media-alert-secureworks-discovers-north-korean-cyber-threat-group-lazarus-spearphishing
+
+https://www.justice.gov/usao-cdca/press-release/file/1091951/download
